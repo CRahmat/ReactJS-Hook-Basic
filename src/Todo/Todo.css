@@ -1,0 +1,13 @@
+.Todo{
+    margin: auto;
+    min-height: 100vh;
+}
+.TitleTodo {
+    text-align: center;
+    margin-top: 20px;
+}
+
+h1 .TitleTodo{
+    margin-top: 50px;
+    text-align: center;
+}
